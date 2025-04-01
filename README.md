@@ -3,17 +3,17 @@
 
 ## Как установить
 ###### Windows:
-```python -m venv .venv```
-```.venv\Scripts\activate```
+- ```python -m venv .venv```
+- ```.venv\Scripts\activate```
 или же вы можете воспользоваться setup.bat, а затем запускать run.bat
 
 ###### macOS/Linux:
-```python3 -m venv .venv```
-```source .venv/bin/activate```
+- ```python3 -m venv .venv```
+- ```source .venv/bin/activate```
 
 ###### Для обеих систем:
-```pip install -r requirements.txt```
-```python main.py```
+- ```pip install -r requirements.txt```
+- ```python main.py```
 
 ## Информация
 ### Как воспользоваться?
