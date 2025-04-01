@@ -4,8 +4,9 @@
 ## Как установить
 ###### Windows:
 - ```python -m venv .venv```
-- ```.venv\Scripts\activate```
-или же вы можете воспользоваться setup.bat, а затем запускать run.bat
+- ```.venv\Scripts\activate```  
+  
+Или же вы можете воспользоваться setup.bat, а затем запускать run.bat
 
 ###### macOS/Linux:
 - ```python3 -m venv .venv```
