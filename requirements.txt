@@ -1,0 +1,8 @@
+colorama==0.4.6
+pyaes==1.6.1
+pyasn1==0.6.1
+Pyrogram==2.0.106
+PySocks==1.7.1
+python-dotenv==1.1.0
+rsa==4.9
+TgCrypto==1.2.5
