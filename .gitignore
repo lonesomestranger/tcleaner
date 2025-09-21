@@ -2,4 +2,5 @@
 .venv
 .idea
 __pycache__
+links_to_clean.txt
 pyrogram_deleter_session.session
