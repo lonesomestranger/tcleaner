@@ -8,6 +8,9 @@
 
 ---
 
+## ⛰ Codeberg
+Актуальная [ссылка](https://codeberg.org/lonesomestranger/tcleaner) на Codeberg.
+
 ## ⚙️ Установка
 
 #### Windows:
